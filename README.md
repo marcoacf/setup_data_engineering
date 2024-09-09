@@ -10,18 +10,18 @@ Este tutorial visa orientar na configuração de um ambiente de desenvolvimento 
 ### 1. Instalação e Configuração do Python
 Instalação:
 ![site python](imagem/site-python.png)
-1. Acesse o site oficial: https://www.python.org/downloads/windows/
+1. Acesse o site oficial: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/]
 2. Baixe e instale a versão mais recente do Python.
-3. Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
+3. Durante a instalação, certifique-se de marcar a opção **"Add Python to PATH"**.
 
 Verificar Instalação:
 ```bash
 python --version
 ```
 ### 2. Visual Studio Code (VS Code)
-Instalação
-Baixe o instalador em VS Code e siga as instruções.
-Extensões Recomendadas
+Instalação:
+1. Baixe o instalador em VS Code e siga as instruções [https://code.visualstudio.com/download](https://code.visualstudio.com/download).
+2. Instale as Extensões (Recomendadas):
  - Python: Suporte ao desenvolvimento em Python.
  - Jupyter: Para rodar notebooks diretamente no VS Code.
  - Material Icons: Melhora a aparência visual com ícones de arquivos específicos.
@@ -31,7 +31,7 @@ Extensões Recomendadas
  - Edit CSV: Facilita a edição de arquivos CSV.
  - CSV to Table: Converte arquivos CSV em tabelas visualmente organizadas.
 
-Configuração
+3. Configuração
 > Vá para File > Preferences > Settings e personalize de acordo com suas preferências. Ajuste a formatação de código, linting e outras configurações.
 
 ### 3. Terminal, PowerShell e Git Bash
