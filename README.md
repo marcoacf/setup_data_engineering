@@ -9,6 +9,7 @@ Este tutorial visa orientar na configuração de um ambiente de desenvolvimento 
 
 ### 1. Instalação e Configuração do Python
 Instalação:
+![site python](imagem\site-python.png)
 1. Acesse o site oficial: https://www.python.org/downloads/windows/
 2. Baixe e instale a versão mais recente do Python.
 3. Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
