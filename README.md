@@ -8,10 +8,10 @@
 Este tutorial visa orientar na configuração de um ambiente de desenvolvimento voltado para soluções de dados no Windows. As ferramentas envolvem Python, VS Code, Git, ambientes de desenvolvimento virtualizados, gerenciamento de pacotes, ferramentas de banco de dados e Docker. Vamos abordar desde a instalação até a configuração básica de cada ferramenta.
 
 ### 1. Instalação e Configuração do Python
-Instalação
-1.Acesse o site oficial: https://www.python.org/downloads/windows/
-2.Baixe e instale a versão mais recente do Python.
-3.Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
+Instalação:
+1. Acesse o site oficial: https://www.python.org/downloads/windows/
+2. Baixe e instale a versão mais recente do Python.
+3. Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
 
 Verificar Instalação:
 ```bash
